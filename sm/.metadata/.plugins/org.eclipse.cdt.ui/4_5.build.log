@@ -1,0 +1,21 @@
+16:43:17 **** Incremental Build of configuration Debug for project 4_5 ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m7 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F746xx -c -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -I"C:/Users/HP/Desktop/studia/sm/07_12_2023/4_5/Components/Inc" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+In file included from ../Core/Src/main.c:29:
+../Core/Inc/sin.h:1:17: warning: 'sin_wave' initialized and declared 'extern'
+    1 | extern uint16_t sin_wave[] = {1861,1939,2016,2093,2169,2244,2318,2389,2459,2526,2590,2652,2710,2765,2817,2865,2909,2948,2984,3015,3041,3063,3080,3092,3099,3102,3099,3092,3080,3063,3041,3015,2984,2948,2909,2865,2817,2765,2710,2652,2590,2526,2459,2389,2318,2244,2169,2093,2016,1939,1861,1783,1705,1628,1552,1477,1404,1333,1263,1196,1131,1070,1011,956,905,857,813,773,738,707,681,659,642,630,622,620,622,630,642,659,681,707,738,773,813,857,905,956,1011,1070,1131,1196,1263,1333,1404,1477,1552,1628,1705,1783};
+      |                 ^~~~~~~~
+arm-none-eabi-gcc -o "4_5.elf" @"objects.list"   -mcpu=cortex-m7 -T"C:\Users\HP\Desktop\studia\sm\07_12_2023\4_5\STM32F746ZGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="4_5.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 4_5.elf
+ 
+arm-none-eabi-size  4_5.elf 
+arm-none-eabi-objdump -h -S 4_5.elf  > "4_5.list"
+   text	   data	    bss	    dec	    hex	filename
+  18588	    220	   1900	  20708	   50e4	4_5.elf
+Finished building: default.size.stdout
+ 
+Finished building: 4_5.list
+ 
+
+16:43:18 Build Finished. 0 errors, 1 warnings. (took 1s.180ms)
+

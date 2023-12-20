@@ -1,0 +1,2 @@
+../Core/Src/BH1750.c:3:6:bh1750Init	32	static
+../Core/Src/BH1750.c:13:7:bh1750GetMes	40	static

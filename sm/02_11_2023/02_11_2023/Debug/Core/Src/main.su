@@ -1,0 +1,16 @@
+../Core/Src/main.c:105:5:main	8	static
+../Core/Src/main.c:195:6:SystemClock_Config	88	static
+../Core/Src/main.c:245:13:MX_ETH_Init	8	static
+../Core/Src/main.c:294:13:MX_TIM1_Init	112	static
+../Core/Src/main.c:382:13:MX_TIM2_Init	40	static
+../Core/Src/main.c:427:13:MX_TIM3_Init	56	static
+../Core/Src/main.c:476:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:511:13:MX_USB_OTG_FS_PCD_Init	8	static
+../Core/Src/main.c:546:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:599:6:setRedFill	16	static
+../Core/Src/main.c:605:6:setGreenFill	16	static
+../Core/Src/main.c:611:6:setBlueFill	16	static
+../Core/Src/main.c:617:6:pwmStartAll	8	static
+../Core/Src/main.c:626:6:HAL_TIM_PeriodElapsedCallback	24	static
+../Core/Src/main.c:641:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/main.c:673:6:Error_Handler	24	static,ignoring_inline_asm

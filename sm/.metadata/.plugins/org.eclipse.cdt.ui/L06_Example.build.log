@@ -1,0 +1,36 @@
+15:48:08 **** Incremental Build of configuration Debug for project L06_Example ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m7 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F746xx -c -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -I"C:/Users/HP/Desktop/studia/sm/repo/L06_Example/Components/Inc" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'HAL_TIM_PeriodElapsedCallback':
+../Core/Src/main.c:80:29: warning: passing argument 2 of 'BMP2_ReadData' from incompatible pointer type [-Wincompatible-pointer-types]
+   80 |     BMP2_ReadData(&bmp2dev, &press, &temp);
+      |                             ^~~~~~
+      |                             |
+      |                             float *
+In file included from ../Core/Src/main.c:30:
+C:/Users/HP/Desktop/studia/sm/repo/L06_Example/Components/Inc/bmp2_config.h:129:52: note: expected 'double *' but argument is of type 'float *'
+  129 | int8_t BMP2_ReadData(struct bmp2_dev *dev, double* press, double* temp);
+      |                                            ~~~~~~~~^~~~~
+../Core/Src/main.c:80:37: warning: passing argument 3 of 'BMP2_ReadData' from incompatible pointer type [-Wincompatible-pointer-types]
+   80 |     BMP2_ReadData(&bmp2dev, &press, &temp);
+      |                                     ^~~~~
+      |                                     |
+      |                                     float *
+In file included from ../Core/Src/main.c:30:
+C:/Users/HP/Desktop/studia/sm/repo/L06_Example/Components/Inc/bmp2_config.h:129:67: note: expected 'double *' but argument is of type 'float *'
+  129 | int8_t BMP2_ReadData(struct bmp2_dev *dev, double* press, double* temp);
+      |                                                           ~~~~~~~~^~~~
+arm-none-eabi-gcc -o "L06_Example.elf" @"objects.list"   -mcpu=cortex-m7 -T"C:\Users\HP\Desktop\studia\sm\repo\L06_Example\STM32F746ZGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="L06_Example.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -u _printf_float -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: L06_Example.elf
+ 
+arm-none-eabi-size   L06_Example.elf 
+arm-none-eabi-objdump -h -S  L06_Example.elf  > "L06_Example.list"
+   text	   data	    bss	    dec	    hex	filename
+  46372	    584	   2000	  48956	   bf3c	L06_Example.elf
+Finished building: default.size.stdout
+ 
+Finished building: L06_Example.list
+ 
+
+15:48:10 Build Finished. 0 errors, 2 warnings. (took 1s.445ms)
+

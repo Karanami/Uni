@@ -1,0 +1,5 @@
+../Components/Src/led.c:37:6:gpioOn	1
+../Components/Src/led.c:47:6:gpioOff	1
+../Components/Src/led.c:57:6:gpioToggle	1
+../Components/Src/led.c:68:6:gpioWrite	2
+../Components/Src/led.c:78:23:gpioRead	2

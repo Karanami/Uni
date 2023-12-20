@@ -1,0 +1,28 @@
+Circuit: * C:\Users\HP\Desktop\studia\ee\19_10_23\zad1.asc
+
+WARNING: Less than two connections to node pwm_20.  This node is used by v4.
+WARNING: Less than two connections to node pwm_40.  This node is used by v1.
+WARNING: Less than two connections to node pwm_60.  This node is used by v2.
+WARNING: Less than two connections to node pwm_80.  This node is used by v3.
+WARNING: Less than two connections to node pila.  This node is used by v5.
+WARNING: Less than two connections to node troj.  This node is used by v6.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Oct 19 12:30:09 2023
+Total elapsed time: 0.104 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5181
+traniter = 5178
+tranpoints = 2590
+accept = 2403
+rejected = 187
+matrix size = 12
+fillins = 0
+solver = Normal
+Avg thread counts: 1.5/2.0/2.1/1.5
+Matrix Compiler1:      11 opcodes  0.2/[0.2]/0.2
+Matrix Compiler2: 472 bytes object code size  0.2/0.3/[0.2]
+

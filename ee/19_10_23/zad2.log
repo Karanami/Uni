@@ -1,0 +1,22 @@
+Circuit: * C:\Users\HP\Desktop\studia\ee\19_10_23\zad2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Oct 26 14:13:31 2023
+Total elapsed time: 2.785 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 180996
+traniter = 180986
+tranpoints = 42689
+accept = 32123
+rejected = 10566
+matrix size = 87
+fillins = 49
+solver = Normal
+Avg thread counts: 1.0/1.1/1.0/1.0
+Matrix Compiler1: 3.92 KB object code size  2.3/1.4/[0.6]
+Matrix Compiler2: 6.53 KB object code size  1.7/2.5/[0.6]
+

@@ -1,0 +1,5 @@
+../Core/Src/main.c:61:6:setVoltage	2
+../Core/Src/main.c:76:6:HAL_UART_RxCpltCallback	2
+../Core/Src/main.c:91:5:main	1
+../Core/Src/main.c:138:6:SystemClock_Config	4
+../Core/Src/main.c:204:6:Error_Handler	1
