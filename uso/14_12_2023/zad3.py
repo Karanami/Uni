@@ -18,7 +18,7 @@ def zad1_2():
     t = np.linspace(0, 5)
     t = np.flip(t)
 
-    y = itg.odeint(riccati, [100, 0, 0, 100], t)
+    y = itg.odeint(riccati, [1, 0, 0, 1], t)
 
     plt.plot(t, y)
     plt.title('zad1_2')
