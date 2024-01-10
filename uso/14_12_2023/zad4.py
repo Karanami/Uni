@@ -93,5 +93,17 @@ def zad2():
             plt.show()
 
 if __name__ == '__main__':
-    #zad1()
+    zad1()
     zad2()
+
+########################################################################################################
+# 4.1
+# tak regulator LQR z nieskończonym horyzontem czasowym można wykorzystać do realizacji zadań innych
+# niż x = 0, ponieważ regulator stabilizował się na zadanej wartości
+########################################################################################################
+# 4.2
+# nie regulator LQR ze skończonym horyzontem czasowym nio można wykorzystać do realizacji zadań innych
+# niż x = 0, ponieważ regulator mimo iż początkowo zachowuje sie poprawnie to w ostatnich chwilach 
+# czasowych regulator dąży do wartości zero, jest to spowodowane, tym że obliczając nastawy macierzy P,
+# z założenia w ostatnich chwilach czasowych P dąży do wartości 0
+########################################################################################################
