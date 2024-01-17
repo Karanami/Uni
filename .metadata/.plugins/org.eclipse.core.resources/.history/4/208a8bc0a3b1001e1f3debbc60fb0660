@@ -1,0 +1,76 @@
+/*
+ * common.cpp
+ *
+ *  Created on: Jan 12, 2024
+ *      Author: Piotr Lesicki
+ */
+
+
+#include "common.hpp"
+
+//	┏┓  •  ┳
+//	┃┓┏┓┓┏┓┃┏┓
+//	┗┛┣┛┗┗┛┻┛┗
+//	  ┛
+
+GpioIn::GpioIn(const GPIO_Typedef *gpio, uint16_t pin) : gpio(gpio), pin(pin), inv(0) { }
+
+GpioIn::GpioIn(const GPIO_Typedef *gpio, uint16_t pin, bool inv) : gpio(gpio), pin(pin), inv(inv ? pin : 0) { }
+
+inline bool GpioIn::read()
+{
+	return bool(gpio->IDR & pin ^ inv);
+}
+
+//	┏┓  •  ┏┓   
+//	┃┓┏┓┓┏┓┃┃┓┏╋
+//	┗┛┣┛┗┗┛┗┛┗┻┗
+//	  ┛         
+
+GpioOut::GpioOut(const GPIO_Typedef *gpio, uint16_t pin) : gpio(gpio), pin(pin), inv(0) { }
+
+GpioOut::GpioOut(const GPIO_Typedef *gpio, uint16_t pin, bool inv) : gpio(gpio), pin(pin), inv(inv ? pin : 0) { }
+
+inline void GpioOut::on()
+{
+	gpio->ODR = gpio->ODR & ~inv | (pin ^ inv);
+}
+
+inline void GpioOut::off()
+{
+	gpio->ODR = gpio->ODR & ~(pin ^ inv) | inv;
+}
+
+inline void GpioOut::toggle()
+{
+	gpio->ODR ^= pin;
+}
+
+//	┏┓      ┓
+//	┣ ┏┓┏┏┓┏┫┏┓┏┓
+//	┗┛┛┗┗┗┛┗┻┗ ┛
+//
+
+Encoder::Encoder(const LPTIM_Typedef *lptim, float ratio) : lptim(lptim), ratio(ratio)
+{
+	LL_LPTIM_EnableResetAfterRead(lptim);
+}
+
+Encoder::Encoder(const LPTIM_Typedef *lptim, float gear_ratio, float encoder_ratio) : lptim(lptim), ratio(gear_ratio * encoder_ratio)
+{
+	LL_LPTIM_EnableResetAfterRead(lptim);
+}
+
+inline float Encoder::getAngleSpeed()
+{
+	return float(LL_LPTIM_GetCounter(this->lptim)) * ratio;
+}
+
+//	┏┓      ┏┓
+//	┃┃┓┏┏┏┳┓┃┃┓┏╋
+//	┣┛┗┻┛┛┗┗┗┛┗┻┗
+//
+
+PwmOut(const TIM_Typedef *tim);
+
+void setDuty(float duty);

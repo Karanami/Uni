@@ -1,0 +1,92 @@
+2024-01-13 00:07:25,964 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 650260512 Bytes (844103680)
+2024-01-13 00:07:26,057 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 306400600 Bytes (844103680)
+2024-01-13 00:07:31,216 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 506400120 Bytes (844103680)
+2024-01-13 00:07:31,515 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPTIM
+2024-01-13 00:07:31,516 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPTIM
+2024-01-13 00:07:31,516 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-01-13 00:07:31,516 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-13 00:07:31,516 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: MEMORYMAP
+2024-01-13 00:07:31,516 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8WB5
+2024-01-13 00:07:31,516 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2024-01-13 00:07:31,516 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-13 00:07:31,516 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-13 00:07:31,516 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-13 00:07:31,516 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-13 00:07:31,516 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RF
+2024-01-13 00:07:31,516 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-01-13 00:07:31,516 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: QUADSPI
+2024-01-13 00:07:31,517 [INFO] CodeGenerator:807 - code generatio: config db path: I:\programy\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-01-13 00:07:31,697 [INFO] IP:3348 - RTE Config file name : RTE_Component
+2024-01-13 00:07:31,697 [INFO] IP:3366 - RTE template : RTE_Components.ftl
+2024-01-13 00:07:31,712 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\MXTmpFiles\license.tmp_save
+2024-01-13 00:07:32,001 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\MXTmpFiles\license.tmp
+2024-01-13 00:07:32,189 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\gpio.c_save
+2024-01-13 00:07:32,280 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\gpio.c
+2024-01-13 00:07:32,286 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\gpio.h_save
+2024-01-13 00:07:32,342 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\gpio.h
+2024-01-13 00:07:32,772 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MEMORYMAP ip!!
+2024-01-13 00:07:32,773 [WARN] IP:2119 - DefaultDataRegion not found: check if there is a RefParameter without a condition.
+2024-01-13 00:07:32,941 [WARN] IPConfigManager:99 - WARNING: Missing Config File for RF ip!!
+2024-01-13 00:07:33,475 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\adc.c_save
+2024-01-13 00:07:33,571 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\adc.c
+2024-01-13 00:07:33,578 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\adc.h_save
+2024-01-13 00:07:33,627 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\adc.h
+2024-01-13 00:07:33,637 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\lptim.c_save
+2024-01-13 00:07:33,711 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\lptim.c
+2024-01-13 00:07:33,717 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\lptim.h_save
+2024-01-13 00:07:33,763 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\lptim.h
+2024-01-13 00:07:33,774 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\usart.c_save
+2024-01-13 00:07:33,837 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\usart.c
+2024-01-13 00:07:33,843 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\usart.h_save
+2024-01-13 00:07:33,887 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\usart.h
+2024-01-13 00:07:33,897 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\memorymap.c_save
+2024-01-13 00:07:33,962 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\memorymap.c
+2024-01-13 00:07:33,967 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\memorymap.h_save
+2024-01-13 00:07:34,009 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\memorymap.h
+2024-01-13 00:07:34,019 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\quadspi.c_save
+2024-01-13 00:07:34,080 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\quadspi.c
+2024-01-13 00:07:34,086 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\quadspi.h_save
+2024-01-13 00:07:34,132 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\quadspi.h
+2024-01-13 00:07:34,142 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\rf.c_save
+2024-01-13 00:07:34,200 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\rf.c
+2024-01-13 00:07:34,206 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\rf.h_save
+2024-01-13 00:07:34,249 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\rf.h
+2024-01-13 00:07:34,258 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\spi.c_save
+2024-01-13 00:07:34,316 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\spi.c
+2024-01-13 00:07:34,322 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\spi.h_save
+2024-01-13 00:07:34,367 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\spi.h
+2024-01-13 00:07:34,376 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\tim.c_save
+2024-01-13 00:07:34,440 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\tim.c
+2024-01-13 00:07:34,451 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\tim.h_save
+2024-01-13 00:07:34,493 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\tim.h
+2024-01-13 00:07:34,504 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\usb.c_save
+2024-01-13 00:07:34,567 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\usb.c
+2024-01-13 00:07:34,573 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\usb.h_save
+2024-01-13 00:07:34,618 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\usb.h
+2024-01-13 00:07:34,633 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\stm32wbxx_it.c_save
+2024-01-13 00:07:34,695 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\stm32wbxx_it.c
+2024-01-13 00:07:34,701 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\stm32wbxx_it.h_save
+2024-01-13 00:07:34,748 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\stm32wbxx_it.h
+2024-01-13 00:07:34,760 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\stm32wbxx_hal_msp.c_save
+2024-01-13 00:07:34,818 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\stm32wbxx_hal_msp.c
+2024-01-13 00:07:34,822 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\MXTmpFiles\system.tmp_save
+2024-01-13 00:07:34,859 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\MXTmpFiles\system.tmp
+2024-01-13 00:07:34,865 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\stm32_assert.h_save
+2024-01-13 00:07:34,905 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\stm32_assert.h
+2024-01-13 00:07:34,910 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\stm32wbxx_hal_timebase_tim.c_save
+2024-01-13 00:07:34,960 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\stm32wbxx_hal_timebase_tim.c
+2024-01-13 00:07:34,970 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\stm32wbxx_hal_conf.h_save
+2024-01-13 00:07:35,015 [INFO] CodeEngine:335 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\stm32wbxx_hal_conf.h
+2024-01-13 00:07:35,029 [WARN] IPConfigManager:2946 - Warning: the RefConfig RCC_PClockConfig is not available in your config.xml file
+2024-01-13 00:07:35,045 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\main.h_save
+2024-01-13 00:07:35,100 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\main.h
+2024-01-13 00:07:35,108 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\main.c_save
+2024-01-13 00:07:35,179 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\main.c
+2024-01-13 00:07:35,680 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 211mS.
+2024-01-13 00:07:35,690 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-13 00:07:35,822 [INFO] ConfigFileManager:1495 - The Die is : DIE495
+2024-01-13 00:07:35,824 [INFO] ApiDbMcu:508 - Load IP Config File for FATFS
+2024-01-13 00:07:35,827 [INFO] ApiDbMcu:508 - Load IP Config File for FREERTOS
+2024-01-13 00:07:35,837 [INFO] ApiDbMcu:508 - Load IP Config File for STM32_WPAN
+2024-01-13 00:07:35,845 [INFO] ApiDbMcu:508 - Load IP Config File for TOUCHSENSING
+2024-01-13 00:07:35,852 [INFO] ApiDbMcu:508 - Load IP Config File for USB_Device

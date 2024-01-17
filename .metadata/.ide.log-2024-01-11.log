@@ -1,0 +1,1545 @@
+2024-01-12 00:56:34,250 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,266 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,266 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,266 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,266 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,266 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,266 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,266 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,266 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,266 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,266 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,266 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,266 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,266 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,266 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,266 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,267 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,267 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,267 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,267 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,267 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,267 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,267 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,267 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,267 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,321 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,321 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,321 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,321 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,322 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,414 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,414 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,414 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,415 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,492 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,493 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,494 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,494 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:34,494 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 00:56:39,269 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 00:57:09,326 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 00:57:09,412 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,412 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,412 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,412 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,412 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,412 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,412 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,412 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,413 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,507 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,508 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,508 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,508 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,508 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,508 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,508 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,508 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,508 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,508 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,578 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,578 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,579 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 00:57:09,656 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 00:59:12,151 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,226 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,227 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,303 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,304 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,369 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,370 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,370 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,370 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,370 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,370 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,370 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,370 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 00:59:12,446 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:00:10,642 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:00:10,734 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,734 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,734 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,735 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,816 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,816 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,816 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,816 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,816 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,816 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,816 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,816 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,817 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,878 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,879 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:10,948 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:00:36,110 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,196 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,197 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,197 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,197 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,276 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,277 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,337 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,337 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,337 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,337 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,337 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,337 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,337 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,337 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,337 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,338 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:00:36,406 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:03:23,706 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:03:23,765 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:03:23,801 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,801 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,801 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,802 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,883 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,948 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,949 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,949 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,949 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:23,949 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:03:24,019 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:03:24,066 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:04:32,342 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:04:32,383 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,416 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,417 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,417 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,417 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,417 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,417 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,417 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,497 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,498 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,498 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,498 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,498 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,498 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,498 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,498 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,498 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,498 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,563 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,564 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,564 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,564 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,564 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,564 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,564 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:32,641 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:04:32,684 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:04:53,071 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:04:53,111 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,153 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,235 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,235 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,235 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,236 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,302 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,302 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,302 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,302 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,302 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,302 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,303 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:04:53,373 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:04:53,418 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:05:29,892 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:05:29,936 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,974 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,975 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:29,975 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,050 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,050 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,050 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,050 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,050 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,050 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,050 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,050 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,050 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,050 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,050 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,051 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,051 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,051 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,051 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,051 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,051 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,051 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,051 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,051 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,051 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,051 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,051 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,051 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,051 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,119 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,120 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,120 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,120 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,120 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,120 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:30,198 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:05:30,241 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:05:54,196 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:05:54,243 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:05:54,290 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,290 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,290 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,290 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,290 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,290 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,290 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,290 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,290 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,290 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,291 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,291 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,291 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,291 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,291 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,291 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,291 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,291 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,291 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,291 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,291 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,291 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,291 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,291 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,291 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,369 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,369 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,369 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,370 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,433 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:05:54,505 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:05:54,545 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:06:26,698 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:06:26,740 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,776 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,777 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,777 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,777 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,777 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,857 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,919 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,919 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,919 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,919 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,919 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,919 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,919 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,919 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,919 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,920 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:26,998 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:06:27,049 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:06:42,274 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:06:42,321 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:06:42,355 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,355 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,355 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,355 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,355 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,355 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,355 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,355 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,355 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,355 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,355 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,355 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,355 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,356 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,356 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,356 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,356 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,356 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,356 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,356 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,356 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,356 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,356 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,356 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,356 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,434 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,495 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,495 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,495 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,495 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,495 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,495 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,495 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,495 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,495 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,495 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,495 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,496 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,496 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,496 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,496 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,496 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,496 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,496 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,496 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,496 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,496 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,496 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,496 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,496 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,496 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:06:42,564 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:06:42,613 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:07:12,475 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:07:12,516 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:07:12,563 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:07:12,603 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:07:12,640 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,641 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,723 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,789 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:12,856 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:07:12,893 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:07:14,337 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:07:14,374 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:07:16,684 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:07:16,721 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:07:16,768 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:07:16,808 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,844 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,927 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,928 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:16,928 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,008 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,009 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,009 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,009 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,009 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,009 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,009 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:17,080 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:07:17,116 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:07:59,556 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:07:59,595 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:07:59,629 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,629 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,629 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,629 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,629 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,629 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,629 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,629 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,629 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,629 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,630 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,630 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,630 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,630 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,630 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,630 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,630 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,630 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,630 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,630 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,630 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,630 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,630 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,630 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,630 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,710 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,710 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,710 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,710 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,710 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,711 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,774 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,775 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,775 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:07:59,842 [INFO] Gpio:277 - dependency for GPIO [ADC1, I2C1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:07:59,882 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:08:43,048 [INFO] Gpio:277 - dependency for GPIO [ADC1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:08:43,088 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:08:43,151 [INFO] Gpio:277 - dependency for GPIO [ADC1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:08:43,186 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:08:47,727 [INFO] Gpio:277 - dependency for GPIO [ADC1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:08:47,763 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:08:47,797 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,797 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,797 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,797 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,797 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,797 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,797 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,797 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,797 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,797 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,797 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,798 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,798 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,798 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,798 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,798 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,798 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,798 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,798 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,798 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,798 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,798 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,798 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,798 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,798 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,873 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,874 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,874 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,874 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,874 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,874 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,934 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,935 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,935 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,935 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,935 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:47,935 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:08:48,009 [INFO] Gpio:277 - dependency for GPIO [ADC1, LPTIM1, LPTIM2, LPUART1, QUADSPI, RCC, RF, SPI1, SYS, TIM1, USB]
+2024-01-12 01:08:48,048 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-12 01:10:53,827 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 233920776 Bytes (629145600)
+2024-01-12 01:10:57,267 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 264255152 Bytes (629145600)
+2024-01-12 01:11:06,564 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 387987112 Bytes (629145600)
+2024-01-12 01:11:16,825 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPTIM
+2024-01-12 01:11:16,826 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPTIM
+2024-01-12 01:11:16,826 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-01-12 01:11:16,826 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-12 01:11:16,826 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0
+2024-01-12 01:11:16,826 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: MEMORYMAP
+2024-01-12 01:11:16,826 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8WB5
+2024-01-12 01:11:16,826 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8WB5
+2024-01-12 01:11:16,826 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2024-01-12 01:11:16,826 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-12 01:11:16,826 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-12 01:11:16,826 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-12 01:11:16,826 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-12 01:11:16,826 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RF
+2024-01-12 01:11:16,826 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LPUART
+2024-01-12 01:11:16,826 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: QUADSPI
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_NO_TIMER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_TRACE_TIME_SOURCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_TRACE_TIME_MASK not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - ALIGN_TYPE_VAL not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_LOW_POWER_TICKLESS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_LOW_POWER_USER_ENTER not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_LOW_POWER_USER_EXIT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_LOW_POWER_USER_TIMER_ADJUST not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_LOW_POWER_TIMER_SETUP not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_BASEPRI_VALUE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_APP_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_APP_THREAD_ENTRY not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_APP_THREAD_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_APP_THREAD_PRIO not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_APP_STACK_SIZE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_APP_SEM_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_SEMAPHORE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_SEMAPHORE_COUNT not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_APP_MUTEX_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_MUTEX_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_Mutex_INHERITANCE not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_APP_MSG_QUEUE_CREATION not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_MSG_QUEUE_NAME not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_MSG_SIZE_WORDS not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,830 [WARN] IP:2119 - TX_NB_MSG not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:16,833 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,833 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,833 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,833 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,833 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,833 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,833 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,833 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,833 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,833 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,833 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,834 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,834 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,834 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,834 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,834 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,834 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,834 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,834 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,834 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,834 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:16,836 [INFO] CodeGenerator:807 - code generatio: config db path: I:\programy\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-01-12 01:11:16,989 [INFO] IP:3348 - RTE Config file name : RTE_Component
+2024-01-12 01:11:16,990 [INFO] IP:3366 - RTE template : RTE_Components.ftl
+2024-01-12 01:11:17,005 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\MXTmpFiles\license.tmp_save
+2024-01-12 01:11:17,246 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\MXTmpFiles\license.tmp
+2024-01-12 01:11:17,408 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\gpio.c_save
+2024-01-12 01:11:17,505 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\gpio.c
+2024-01-12 01:11:17,513 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\gpio.h_save
+2024-01-12 01:11:17,567 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\gpio.h
+2024-01-12 01:11:17,919 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MEMORYMAP ip!!
+2024-01-12 01:11:17,919 [WARN] IP:2119 - DefaultDataRegion not found: check if there is a RefParameter without a condition.
+2024-01-12 01:11:18,080 [WARN] IPConfigManager:99 - WARNING: Missing Config File for RF ip!!
+2024-01-12 01:11:18,685 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-01-12 01:11:18,692 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-01-12 01:11:18,709 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\tx_user.h_save
+2024-01-12 01:11:18,767 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\tx_user.h
+2024-01-12 01:11:18,779 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\tx_initialize_low_level.S_save
+2024-01-12 01:11:18,832 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\tx_initialize_low_level.S
+2024-01-12 01:11:18,843 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\AZURE_RTOS\App\app_azure_rtos_config.h_save
+2024-01-12 01:11:18,889 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\AZURE_RTOS\App\app_azure_rtos_config.h
+2024-01-12 01:11:18,899 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\app_threadx.c_save
+2024-01-12 01:11:18,947 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\app_threadx.c
+2024-01-12 01:11:18,957 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\app_threadx.h_save
+2024-01-12 01:11:19,002 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\app_threadx.h
+2024-01-12 01:11:19,012 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\AZURE_RTOS\App\app_azure_rtos.c_save
+2024-01-12 01:11:19,058 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\AZURE_RTOS\App\app_azure_rtos.c
+2024-01-12 01:11:19,067 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\AZURE_RTOS\App\app_azure_rtos.h_save
+2024-01-12 01:11:19,108 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\AZURE_RTOS\App\app_azure_rtos.h
+2024-01-12 01:11:19,121 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\adc.c_save
+2024-01-12 01:11:19,210 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\adc.c
+2024-01-12 01:11:19,216 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\adc.h_save
+2024-01-12 01:11:19,260 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\adc.h
+2024-01-12 01:11:19,269 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\lptim.c_save
+2024-01-12 01:11:19,337 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\lptim.c
+2024-01-12 01:11:19,343 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\lptim.h_save
+2024-01-12 01:11:19,389 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\lptim.h
+2024-01-12 01:11:19,398 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\usart.c_save
+2024-01-12 01:11:19,458 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\usart.c
+2024-01-12 01:11:19,461 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\usart.h_save
+2024-01-12 01:11:19,503 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\usart.h
+2024-01-12 01:11:19,512 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\memorymap.c_save
+2024-01-12 01:11:19,567 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\memorymap.c
+2024-01-12 01:11:19,572 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\memorymap.h_save
+2024-01-12 01:11:19,614 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\memorymap.h
+2024-01-12 01:11:19,623 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\quadspi.c_save
+2024-01-12 01:11:19,681 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\quadspi.c
+2024-01-12 01:11:19,687 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\quadspi.h_save
+2024-01-12 01:11:19,732 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\quadspi.h
+2024-01-12 01:11:19,741 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\rf.c_save
+2024-01-12 01:11:19,797 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\rf.c
+2024-01-12 01:11:19,803 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\rf.h_save
+2024-01-12 01:11:19,849 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\rf.h
+2024-01-12 01:11:19,859 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\spi.c_save
+2024-01-12 01:11:19,919 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\spi.c
+2024-01-12 01:11:19,925 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\spi.h_save
+2024-01-12 01:11:19,969 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\spi.h
+2024-01-12 01:11:19,979 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\tim.c_save
+2024-01-12 01:11:20,046 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\tim.c
+2024-01-12 01:11:20,051 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\tim.h_save
+2024-01-12 01:11:20,095 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\tim.h
+2024-01-12 01:11:20,105 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\usb.c_save
+2024-01-12 01:11:20,164 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\usb.c
+2024-01-12 01:11:20,170 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\usb.h_save
+2024-01-12 01:11:20,214 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\usb.h
+2024-01-12 01:11:20,229 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\stm32wbxx_it.c_save
+2024-01-12 01:11:20,297 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\stm32wbxx_it.c
+2024-01-12 01:11:20,303 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\stm32wbxx_it.h_save
+2024-01-12 01:11:20,352 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\stm32wbxx_it.h
+2024-01-12 01:11:20,355 [INFO] IP:3348 - RTE Config file name : RTE_Component
+2024-01-12 01:11:20,356 [INFO] IP:3366 - RTE template : RTE_Components.ftl
+2024-01-12 01:11:20,356 [INFO] CodeGenerator:2119 - Add RTE Code Input 
+2024-01-12 01:11:20,362 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\RTE_Components.h_save
+2024-01-12 01:11:20,406 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\RTE_Components.h
+2024-01-12 01:11:20,418 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\stm32wbxx_hal_msp.c_save
+2024-01-12 01:11:20,556 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\stm32wbxx_hal_msp.c
+2024-01-12 01:11:20,561 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\MXTmpFiles\system.tmp_save
+2024-01-12 01:11:20,607 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\MXTmpFiles\system.tmp
+2024-01-12 01:11:20,617 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\stm32wbxx_hal_conf.h_save
+2024-01-12 01:11:20,662 [INFO] CodeEngine:335 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\stm32wbxx_hal_conf.h
+2024-01-12 01:11:20,675 [WARN] IPConfigManager:2946 - Warning: the RefConfig RCC_PClockConfig is not available in your config.xml file
+2024-01-12 01:11:20,692 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\main.h_save
+2024-01-12 01:11:20,748 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Inc\main.h
+2024-01-12 01:11:20,755 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\main.c_save
+2024-01-12 01:11:20,827 [INFO] CodeEngine:279 - Generated code: C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\Core\Src\main.c
+2024-01-12 01:11:21,314 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 210mS.
+2024-01-12 01:11:21,314 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,315 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,316 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,317 [ERROR] Middleware:2969 - Invalid RefComponent liste
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 IAR Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,318 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,319 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,319 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:21,319 [WARN] ThirdPartyIpManager:480 - Condition 'CM4 ARMC6 Condition' not fulfilled in pack 'STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0'
+2024-01-12 01:11:22,343 [INFO] ProjectBuilder:8685 - Time for Copy ThirdParty[1] : 1021mS.
+2024-01-12 01:11:22,354 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-12 01:11:22,528 [INFO] ConfigFileManager:1495 - The Die is : DIE495
+2024-01-12 01:11:22,531 [INFO] ApiDbMcu:508 - Load IP Config File for FATFS
+2024-01-12 01:11:22,534 [INFO] ApiDbMcu:508 - Load IP Config File for FREERTOS
+2024-01-12 01:11:22,550 [INFO] ApiDbMcu:508 - Load IP Config File for STM32_WPAN
+2024-01-12 01:11:22,561 [INFO] ApiDbMcu:508 - Load IP Config File for TOUCHSENSING
+2024-01-12 01:11:22,569 [INFO] ApiDbMcu:508 - Load IP Config File for USB_Device

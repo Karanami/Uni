@@ -1,0 +1,1468 @@
+!SESSION 2023-12-21 00:35:21.906 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-12-21 00:36:48.806
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-21 00:36:48.816
+!MESSAGE Log4j2 initialized with config file C:\Users\user\Desktop\szkola\Uni\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-21 00:36:54.084
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:34.701
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.core.common.rss,13.0.2.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:34.702
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.inlinesearch,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:34.702
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.core.common.platform,13.0.2.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:34.703
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,com.genuitec.eclipse.base.feature,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:35.423
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.meexplorer,13.0.1.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:35.814
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.monitor,13.0.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:36.119
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.news,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:36.467
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.patches,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:36.516
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.startup,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:36.530
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.startup.workspace,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:36.609
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.base,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:36.807
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.base.win,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:36.933
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.core,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:36.946
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,com.genuitec.eclipse.theming.core.feature,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:37.157
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.css,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:37.219
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.elevation.win32,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:37.343
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.epl,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:37.480
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,com.genuitec.eclipse.theming.feature,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:37.594
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.scrollbar,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:37.637
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.scrollbar.win,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:37.870
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.ui,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:37.935
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.ui.common.platform,13.0.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:38.066
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.webclipse.evergreen,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:38.226
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.webicons,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:38.243
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipsecolortheme.api,1.11.0.202306151725.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:38.691
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.googlecode.json-simple,1.1.1.me201606061543.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:38.753
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,javax.websocket-api,1.1.0.201606171313.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2023-12-21 00:42:39.192
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,org.eclipse.nebula.widgets.gallery,1.0.0.201706221838.
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2023-12-21 00:42:42.149
+!MESSAGE Connection to https://eclipse.c3sl.ufpr.br/releases/2023-09/202309131000/plugins/bcpkix_1.76.0.jar failed on Valid cert chain, but no trust certificate found!. Retry attempt 0 started
+!STACK 0
+javax.net.ssl.SSLHandshakeException: Valid cert chain, but no trust certificate found!
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:131)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:378)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:321)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:316)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:654)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(CertificateMessage.java:473)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(CertificateMessage.java:369)
+	at java.base/sun.security.ssl.SSLHandshake.consume(SSLHandshake.java:396)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:480)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:458)
+	at java.base/sun.security.ssl.TransportContext.dispatch(TransportContext.java:201)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:172)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1510)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1425)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426)
+	at org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:273)
+	at org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:241)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:148)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1009)
+	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:997)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.ecf.internal.ssl.ECFCertificateException: Valid cert chain, but no trust certificate found!
+	at org.eclipse.ecf.internal.ssl.ECFTrustManager.checkServerTrusted(ECFTrustManager.java:56)
+	at java.base/sun.security.ssl.AbstractTrustManagerWrapper.checkServerTrusted(SSLContextImpl.java:1441)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:638)
+	... 37 more
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2023-12-21 00:42:52.217
+!MESSAGE Connection to https://mirrors.dotsrc.org/eclipse//releases/2023-09/202309131000/plugins/net.i2p.crypto.eddsa_0.3.0.v20220506-1020.jar failed on Valid cert chain, but no trust certificate found!. Retry attempt 0 started
+!STACK 0
+javax.net.ssl.SSLHandshakeException: Valid cert chain, but no trust certificate found!
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:131)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:378)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:321)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:316)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:654)
+	at java.base/sun.security.ssl.CertificateStatus$CertificateStatusConsumer.consume(CertificateStatus.java:293)
+	at java.base/sun.security.ssl.SSLHandshake.consume(SSLHandshake.java:396)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:480)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:458)
+	at java.base/sun.security.ssl.TransportContext.dispatch(TransportContext.java:201)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:172)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1510)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1425)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426)
+	at org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:273)
+	at org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:241)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:148)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1009)
+	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:997)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.ecf.internal.ssl.ECFCertificateException: Valid cert chain, but no trust certificate found!
+	at org.eclipse.ecf.internal.ssl.ECFTrustManager.checkServerTrusted(ECFTrustManager.java:56)
+	at java.base/sun.security.ssl.AbstractTrustManagerWrapper.checkServerTrusted(SSLContextImpl.java:1441)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:638)
+	... 36 more
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2023-12-21 00:42:59.784
+!MESSAGE Connection to https://ftp.acc.umu.se/mirror/eclipse.org/releases/2023-09/202309131000/plugins/org.apache.sshd.sftp_2.10.0.jar failed on Valid cert chain, but no trust certificate found!. Retry attempt 0 started
+!STACK 0
+javax.net.ssl.SSLHandshakeException: Valid cert chain, but no trust certificate found!
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:131)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:378)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:321)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:316)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:654)
+	at java.base/sun.security.ssl.CertificateStatus$CertificateStatusConsumer.consume(CertificateStatus.java:293)
+	at java.base/sun.security.ssl.SSLHandshake.consume(SSLHandshake.java:396)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:480)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:458)
+	at java.base/sun.security.ssl.TransportContext.dispatch(TransportContext.java:201)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:172)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1510)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1425)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426)
+	at org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:273)
+	at org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:241)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:148)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1009)
+	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:997)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.ecf.internal.ssl.ECFCertificateException: Valid cert chain, but no trust certificate found!
+	at org.eclipse.ecf.internal.ssl.ECFTrustManager.checkServerTrusted(ECFTrustManager.java:56)
+	at java.base/sun.security.ssl.AbstractTrustManagerWrapper.checkServerTrusted(SSLContextImpl.java:1441)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:638)
+	... 36 more
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2023-12-21 00:43:31.857
+!MESSAGE Connection to https://mirrors.dotsrc.org/eclipse//releases/2023-09/202309131000/plugins/org.eclipse.jgit.ssh.apache_6.7.0.202309050840-r.jar failed on Valid cert chain, but no trust certificate found!. Retry attempt 0 started
+!STACK 0
+javax.net.ssl.SSLHandshakeException: Valid cert chain, but no trust certificate found!
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:131)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:378)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:321)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:316)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:654)
+	at java.base/sun.security.ssl.CertificateStatus$CertificateStatusConsumer.consume(CertificateStatus.java:293)
+	at java.base/sun.security.ssl.SSLHandshake.consume(SSLHandshake.java:396)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:480)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:458)
+	at java.base/sun.security.ssl.TransportContext.dispatch(TransportContext.java:201)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:172)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1510)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1425)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426)
+	at org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:273)
+	at org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:241)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:148)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1009)
+	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:997)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.ecf.internal.ssl.ECFCertificateException: Valid cert chain, but no trust certificate found!
+	at org.eclipse.ecf.internal.ssl.ECFTrustManager.checkServerTrusted(ECFTrustManager.java:56)
+	at java.base/sun.security.ssl.AbstractTrustManagerWrapper.checkServerTrusted(SSLContextImpl.java:1441)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:638)
+	... 36 more
+!SESSION 2023-12-21 00:46:53.546 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/C:/Users/user/Desktop/szkola/Uni/
+
+!ENTRY org.eclipse.ui 2 0 2023-12-21 00:47:12.291
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-21 00:47:12.291
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2023-12-21 00:47:13.322
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2023-12-21 00:47:13.339
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-12-21 00:47:14.439
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-21 00:47:14.440
+!MESSAGE Log4j2 initialized with config file C:\Users\user\Desktop\szkola\Uni\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-21 00:47:16.097
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-21 00:47:17.239
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.jobs 2 2 2023-12-21 00:47:24.219
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$39
+!SESSION 2023-12-21 22:27:28.319 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-12-21 22:27:35.754
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-21 22:27:35.755
+!MESSAGE Log4j2 initialized with config file C:\Users\user\Desktop\szkola\Uni\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-21 22:27:37.510
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-21 22:27:38.850
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.jobs 2 2 2023-12-21 22:27:43.602
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$39
+!SESSION 2024-01-10 23:12:13.995 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  C:\Users\user\Desktop\szkola\Uni\sm\NUCLEO-F746ZG-Examples-ver-2023-24\L10_L11_Example\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\user\Desktop\szkola\Uni\sm\NUCLEO-F746ZG-Examples-ver-2023-24\L10_L11_Example\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-01-10 23:12:35.236
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-01-10 23:12:35.238
+!MESSAGE Log4j2 initialized with config file C:\Users\user\Desktop\szkola\Uni\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-10 23:12:37.031
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-01-10 23:12:38.167
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.ui 4 4 2024-01-10 23:12:40.294
+!MESSAGE To avoid deadlock while executing Display.syncExec() with argument: com.st.stm32cube.ide.mcu.ide.ui.project.internal.MCUProjectImporter$3@757dbcfa, thread Worker-2: Executing the early startup extensions will interrupt UI thread.
+!SUBENTRY 1 org.eclipse.ui 4 4 2024-01-10 23:12:40.294
+!MESSAGE Worker-2: Executing the early startup extensions thread is an instance of Worker or owns an ILock
+!STACK 0
+java.lang.IllegalStateException: Call stack for thread Worker-2: Executing the early startup extensions
+	at java.management@17.0.8.1/sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at java.management@17.0.8.1/sun.management.ThreadImpl.getThreadInfo(ThreadImpl.java:485)
+	at org.eclipse.ui.internal.UILockListener.reportInterruption(UILockListener.java:214)
+	at org.eclipse.ui.internal.UILockListener.interruptUI(UILockListener.java:180)
+	at org.eclipse.ui.internal.PendingSyncExec.waitUntilExecuted(PendingSyncExec.java:92)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:142)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4803)
+	at com.st.stm32cube.ide.mcu.ide.ui.project.internal.MCUProjectImporter.importProjectImpl(MCUProjectImporter.java:376)
+	at com.st.stm32cube.ide.mcu.ide.ui.project.internal.MCUProjectImporterStartup.handleArguments(MCUProjectImporterStartup.java:141)
+	at com.st.stm32cube.ide.mcu.ide.ui.project.internal.MCUProjectImporterStartup.earlyStartup(MCUProjectImporterStartup.java:57)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:79)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:55)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.Workbench$39.run(Workbench.java:2737)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.ui 4 4 2024-01-10 23:12:40.295
+!MESSAGE UI thread waiting on a job or lock.
+!STACK 0
+java.lang.IllegalStateException: Call stack for thread main
+	at java.base@17.0.8.1/java.lang.Object.wait(Native Method)
+	at org.eclipse.core.internal.jobs.Semaphore.acquire(Semaphore.java:45)
+	at org.eclipse.core.internal.jobs.OrderedLock.doAcquire(OrderedLock.java:191)
+	at org.eclipse.core.internal.jobs.OrderedLock.acquire(OrderedLock.java:125)
+	at org.eclipse.core.internal.jobs.OrderedLock.acquire(OrderedLock.java:100)
+	at org.eclipse.core.internal.jobs.OrderedLock.acquire(OrderedLock.java:87)
+	at org.eclipse.cdt.internal.core.settings.model.xml.XmlProjectDescriptionStorage.getProjectDescription(XmlProjectDescriptionStorage.java:232)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.getProjectDescriptionInternal(CProjectDescriptionManager.java:426)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.getProjectDescription(CProjectDescriptionManager.java:408)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.getProjectDescription(CProjectDescriptionManager.java:402)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.getProjectDescription(CProjectDescriptionManager.java:395)
+	at org.eclipse.cdt.make.ui.MakeContentProvider.getSourceEntries(MakeContentProvider.java:411)
+	at org.eclipse.cdt.make.ui.MakeContentProvider.getChildren(MakeContentProvider.java:106)
+	at org.eclipse.cdt.make.ui.MakeContentProvider.hasChildren(MakeContentProvider.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.isExpandable(AbstractTreeViewer.java:2249)
+	at org.eclipse.jface.viewers.TreeViewer.isExpandable(TreeViewer.java:557)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.isExpandable(AbstractTreeViewer.java:2279)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updatePlus(AbstractTreeViewer.java:3007)
+	at org.eclipse.jface.viewers.TreeViewer.updatePlus(TreeViewer.java:805)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createTreeItem(AbstractTreeViewer.java:877)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:854)
+	at org.eclipse.jface.viewers.TreeViewer.createChildren(TreeViewer.java:615)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:802)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalInitializeTree(AbstractTreeViewer.java:1638)
+	at org.eclipse.jface.viewers.TreeViewer.internalInitializeTree(TreeViewer.java:791)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.lambda$1(AbstractTreeViewer.java:1623)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$$Lambda$682/0x00000001008f99f8.run(Unknown Source)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1403)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:366)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1364)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.inputChanged(AbstractTreeViewer.java:1617)
+	at org.eclipse.jface.viewers.ContentViewer.setInput(ContentViewer.java:282)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1647)
+	at org.eclipse.cdt.make.ui.views.MakeView.createPartControl(MakeView.java:218)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:158)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityView.createPartControl(CompatibilityView.java:155)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:365)
+	at java.base@17.0.8.1/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base@17.0.8.1/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base@17.0.8.1/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base@17.0.8.1/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:971)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:936)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:142)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:386)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:313)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:202)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:995)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$1.run(PartRenderingEngine.java:544)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:528)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:73)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:995)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.createElement(PartServiceImpl.java:1313)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1274)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:397)
+	at com.st.stm32cube.ide.mcu.ide.oss.MCUProjectPresentationHandler$1$1$1.windowActivated(MCUProjectPresentationHandler.java:115)
+	at org.eclipse.ui.internal.Workbench$8.run(Workbench.java:1006)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.Workbench.fireWindowActivated(Workbench.java:1003)
+	at org.eclipse.ui.internal.WorkbenchWindow$6.shellActivated(WorkbenchWindow.java:2460)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:92)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1075)
+	at org.eclipse.swt.widgets.Decorations.WM_ACTIVATE(Decorations.java:1519)
+	at org.eclipse.swt.widgets.Shell.WM_ACTIVATE(Shell.java:2334)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4741)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1478)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2306)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5040)
+	at org.eclipse.swt.internal.win32.OS.DestroyWindow(Native Method)
+	at org.eclipse.swt.widgets.Control.destroyWidget(Control.java:780)
+	at org.eclipse.swt.widgets.Shell.destroyWidget(Shell.java:732)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:831)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:428)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:392)
+	at org.eclipse.jface.window.Window.close(Window.java:335)
+	at org.eclipse.jface.dialogs.Dialog.close(Dialog.java:988)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.close(ProgressMonitorDialog.java:347)
+	at org.eclipse.ui.internal.progress.ProgressMonitorJobsDialog.close(ProgressMonitorJobsDialog.java:373)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.finishedRun(ProgressMonitorDialog.java:557)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:473)
+	at org.eclipse.ui.internal.progress.ProgressMonitorJobsDialog.run(ProgressMonitorJobsDialog.java:230)
+	at org.eclipse.ui.internal.progress.ProgressManager.lambda$26(ProgressManager.java:836)
+	at org.eclipse.ui.internal.progress.ProgressManager$$Lambda$1136/0x0000000100c152d0.run(Unknown Source)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.progress.ProgressManager.busyCursorWhile(ProgressManager.java:869)
+	at org.eclipse.ui.internal.progress.ProgressManager.busyCursorWhile(ProgressManager.java:845)
+	at com.st.stm32cube.ide.mcu.ide.ui.project.internal.MCUProjectImporter$3.run(MCUProjectImporter.java:383)
+	at org.eclipse.ui.internal.PendingSyncExec.run(PendingSyncExec.java:68)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:172)
+	at org.eclipse.ui.internal.UISynchronizer$$Lambda$1133/0x0000000100c14a90.run(Unknown Source)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.ui.internal.Workbench$$Lambda$268/0x00000001003fd2e8.run(Unknown Source)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base@17.0.8.1/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base@17.0.8.1/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base@17.0.8.1/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base@17.0.8.1/java.lang.reflect.Method.invoke(Method.java:568)
+	at app//org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at app//org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at app//org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-10 23:12:45.172
+!MESSAGE Indexed 'L10_L11_Example' (34 sources, 210 headers) in 4,45 sec: 24 942 declarations; 102 962 references; 29 unresolved inclusions; 242 syntax errors; 2 038 unresolved names (1,6%)
+!SESSION 2024-01-11 17:51:33.196 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-01-11 17:51:43.621
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-01-11 17:51:43.622
+!MESSAGE Log4j2 initialized with config file C:\Users\user\Desktop\szkola\Uni\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-11 17:51:47.215
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-01-11 17:51:50.053
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-11 17:51:57.582
+!MESSAGE Indexed 'SmSemProject' (41 sources, 137 headers) in 2,09 sec: 15 653 declarations; 90 629 references; 8 unresolved inclusions; 1 845 syntax errors; 2 856 unresolved names (2,6%)
+
+!ENTRY org.eclipse.core.resources 4 368 2024-01-11 17:52:04.522
+!MESSAGE Resource '/SmSemProject' does not exist.
+!STACK 0
+java.lang.Exception: Resource '/SmSemProject' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:367)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1060)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1183)
+	at com.st.stm32cube.ide.mcu.ide.ui.project.internal.MCUProjectImporter$ProjectOperation.execute(MCUProjectImporter.java:189)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:110)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.ui 4 4 2024-01-11 17:52:20.728
+!MESSAGE Unable to create part
+!STACK 1
+org.eclipse.ui.PartInitException: Invalid Input: Must be project's active .ioc file.
+
+Project's 'SmSemProject' active one is 'SmSemProject.ioc' file
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor.init(CubeMxEditor.java:852)
+	at org.eclipse.ui.internal.EditorReference.initialize(EditorReference.java:353)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:344)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:971)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:936)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:142)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:386)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:313)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:202)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:995)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:105)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4803)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:170)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:188)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:661)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:625)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:796)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1270)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3233)
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$11(WorkbenchPage.java:3123)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3121)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3091)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3082)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:548)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:508)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:367)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:172)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:288)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:254)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252)
+	at org.eclipse.jdt.internal.ui.navigator.OpenAndExpand.run(OpenAndExpand.java:53)
+	at org.eclipse.ui.actions.RetargetAction.run(RetargetAction.java:215)
+	at org.eclipse.ui.navigator.CommonNavigatorManager$1.open(CommonNavigatorManager.java:183)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:801)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:798)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1121)
+	at org.eclipse.ui.navigator.CommonViewer.handleOpen(CommonViewer.java:452)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:296)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:331)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+!SUBENTRY 1 org.eclipse.ui 4 0 2024-01-11 17:52:20.729
+!MESSAGE Invalid Input: Must be project's active .ioc file.
+
+Project's 'SmSemProject' active one is 'SmSemProject.ioc' file
+
+!ENTRY org.eclipse.core.jobs 2 2 2024-01-11 17:52:51.562
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob
+
+!ENTRY org.eclipse.core.jobs 2 2 2024-01-11 17:52:51.563
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader
+!SESSION 2024-01-11 17:53:16.641 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-01-11 17:53:24.217
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-01-11 17:53:24.218
+!MESSAGE Log4j2 initialized with config file C:\Users\user\Desktop\szkola\Uni\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-11 17:53:25.870
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-01-11 17:53:27.376
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-01-11 17:53:58.820 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\user\Desktop\szkola\Uni\sm\SmSemProject\firmware\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-01-11 17:54:09.746
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-01-11 17:54:09.747
+!MESSAGE Log4j2 initialized with config file C:\Users\user\Desktop\szkola\Uni\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-11 17:54:11.033
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-01-11 17:54:12.425
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.ui 4 4 2024-01-11 17:54:15.297
+!MESSAGE To avoid deadlock while executing Display.syncExec() with argument: com.st.stm32cube.ide.mcu.ide.ui.project.internal.MCUProjectImporter$3@688e57de, thread Worker-8: Executing the early startup extensions will interrupt UI thread.
+!SUBENTRY 1 org.eclipse.ui 4 4 2024-01-11 17:54:15.297
+!MESSAGE Worker-8: Executing the early startup extensions thread is an instance of Worker or owns an ILock
+!STACK 0
+java.lang.IllegalStateException: Call stack for thread Worker-8: Executing the early startup extensions
+	at java.management@17.0.8.1/sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at java.management@17.0.8.1/sun.management.ThreadImpl.getThreadInfo(ThreadImpl.java:485)
+	at org.eclipse.ui.internal.UILockListener.reportInterruption(UILockListener.java:214)
+	at org.eclipse.ui.internal.UILockListener.interruptUI(UILockListener.java:180)
+	at org.eclipse.ui.internal.PendingSyncExec.waitUntilExecuted(PendingSyncExec.java:92)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:142)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4803)
+	at com.st.stm32cube.ide.mcu.ide.ui.project.internal.MCUProjectImporter.importProjectImpl(MCUProjectImporter.java:376)
+	at com.st.stm32cube.ide.mcu.ide.ui.project.internal.MCUProjectImporterStartup.handleArguments(MCUProjectImporterStartup.java:141)
+	at com.st.stm32cube.ide.mcu.ide.ui.project.internal.MCUProjectImporterStartup.earlyStartup(MCUProjectImporterStartup.java:57)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:79)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:55)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.Workbench$39.run(Workbench.java:2737)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.ui 4 4 2024-01-11 17:54:15.297
+!MESSAGE UI thread waiting on a job or lock.
+!STACK 0
+java.lang.IllegalStateException: Call stack for thread main
+	at java.base@17.0.8.1/java.lang.Object.wait(Native Method)
+	at org.eclipse.core.internal.jobs.Semaphore.acquire(Semaphore.java:45)
+	at org.eclipse.core.internal.jobs.OrderedLock.doAcquire(OrderedLock.java:191)
+	at org.eclipse.core.internal.jobs.OrderedLock.acquire(OrderedLock.java:125)
+	at org.eclipse.core.internal.jobs.OrderedLock.acquire(OrderedLock.java:100)
+	at org.eclipse.core.internal.jobs.OrderedLock.acquire(OrderedLock.java:87)
+	at org.eclipse.cdt.internal.core.settings.model.xml.XmlProjectDescriptionStorage.getProjectDescription(XmlProjectDescriptionStorage.java:232)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.getProjectDescriptionInternal(CProjectDescriptionManager.java:426)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.getProjectDescription(CProjectDescriptionManager.java:408)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.getProjectDescription(CProjectDescriptionManager.java:402)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.getProjectDescription(CProjectDescriptionManager.java:395)
+	at org.eclipse.cdt.make.ui.MakeContentProvider.getSourceEntries(MakeContentProvider.java:411)
+	at org.eclipse.cdt.make.ui.MakeContentProvider.getChildren(MakeContentProvider.java:106)
+	at org.eclipse.cdt.make.ui.MakeContentProvider.hasChildren(MakeContentProvider.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.isExpandable(AbstractTreeViewer.java:2249)
+	at org.eclipse.jface.viewers.TreeViewer.isExpandable(TreeViewer.java:557)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.isExpandable(AbstractTreeViewer.java:2279)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updatePlus(AbstractTreeViewer.java:3007)
+	at org.eclipse.jface.viewers.TreeViewer.updatePlus(TreeViewer.java:805)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createTreeItem(AbstractTreeViewer.java:877)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updateChildren(AbstractTreeViewer.java:2923)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:2006)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:688)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1975)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1932)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1918)
+	at org.eclipse.jface.viewers.StructuredViewer.lambda$2(StructuredViewer.java:1474)
+	at org.eclipse.jface.viewers.StructuredViewer$$Lambda$209/0x00000001003ea010.run(Unknown Source)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1403)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:366)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1364)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1474)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:541)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1428)
+	at org.eclipse.cdt.make.ui.MakeContentProvider.lambda$0(MakeContentProvider.java:242)
+	at org.eclipse.cdt.make.ui.MakeContentProvider$$Lambda$1234/0x0000000100c29378.run(Unknown Source)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:166)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:368)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:470)
+	at org.eclipse.ui.internal.progress.ProgressMonitorJobsDialog.run(ProgressMonitorJobsDialog.java:230)
+	at org.eclipse.ui.internal.progress.ProgressManager.lambda$26(ProgressManager.java:836)
+	at org.eclipse.ui.internal.progress.ProgressManager$$Lambda$1155/0x0000000100c54d20.run(Unknown Source)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.progress.ProgressManager.busyCursorWhile(ProgressManager.java:869)
+	at org.eclipse.ui.internal.progress.ProgressManager.busyCursorWhile(ProgressManager.java:845)
+	at com.st.stm32cube.ide.mcu.ide.ui.project.internal.MCUProjectImporter$3.run(MCUProjectImporter.java:383)
+	at org.eclipse.ui.internal.PendingSyncExec.run(PendingSyncExec.java:68)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:172)
+	at org.eclipse.ui.internal.UISynchronizer$$Lambda$1113/0x0000000100b3dad8.run(Unknown Source)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.ui.internal.Workbench$$Lambda$268/0x000000010029f8a8.run(Unknown Source)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base@17.0.8.1/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base@17.0.8.1/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base@17.0.8.1/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base@17.0.8.1/java.lang.reflect.Method.invoke(Method.java:568)
+	at app//org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at app//org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at app//org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-11 17:54:19.130
+!MESSAGE Indexed 'SmSemProject' (41 sources, 138 headers) in 3,38 sec: 15 666 declarations; 95 197 references; 3 unresolved inclusions; 84 syntax errors; 179 unresolved names (0,16%)
+!SESSION 2024-01-11 19:02:01.435 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-01-11 19:02:08.435
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-01-11 19:02:08.436
+!MESSAGE Log4j2 initialized with config file C:\Users\user\Desktop\szkola\Uni\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-11 19:02:10.763
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-01-11 19:02:12.339
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-01-12 01:52:23.590 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-01-12 01:52:32.887
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-01-12 01:52:32.888
+!MESSAGE Log4j2 initialized with config file C:\Users\user\Desktop\szkola\Uni\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-12 01:52:36.171
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-01-12 01:52:37.436
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.ui 4 4 2024-01-12 03:06:26.995
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.cdt.core.dom.ast.IASTDeclarator.getName()" because the return value of "org.eclipse.cdt.internal.core.dom.parser.ASTQueries.findInnermostDeclarator(org.eclipse.cdt.core.dom.ast.IASTDeclarator)" is null
+	at org.eclipse.cdt.internal.core.dom.parser.cpp.CPPFunction.getParamName(CPPFunction.java:427)
+	at org.eclipse.cdt.internal.core.dom.parser.cpp.CPPFunction.getParameters(CPPFunction.java:258)
+	at org.eclipse.cdt.internal.core.dom.parser.cpp.CPPFunction.getParameters(CPPFunction.java:1)
+	at org.eclipse.cdt.internal.ui.text.contentassist.DOMCompletionProposalComputer.handleFunction(DOMCompletionProposalComputer.java:602)
+	at org.eclipse.cdt.internal.ui.text.contentassist.DOMCompletionProposalComputer.handleBinding(DOMCompletionProposalComputer.java:369)
+	at org.eclipse.cdt.internal.ui.text.contentassist.DOMCompletionProposalComputer.computeCompletionProposals(DOMCompletionProposalComputer.java:192)
+	at org.eclipse.cdt.internal.ui.text.contentassist.ParsingBasedProposalComputer.computeCompletionProposals(ParsingBasedProposalComputer.java:56)
+	at org.eclipse.cdt.internal.ui.text.contentassist.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:299)
+	at org.eclipse.cdt.internal.ui.text.contentassist.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:266)
+	at org.eclipse.cdt.internal.ui.text.contentassist.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:263)
+	at org.eclipse.cdt.internal.ui.text.contentassist.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:215)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.lambda$0(ContentAssistant.java:2064)
+	at java.base/java.util.Collections$SingletonSet.forEach(Collections.java:4905)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:2063)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:2060)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:577)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.lambda$3(CompletionProposalPopup.java:1660)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.incrementalComplete(CompletionProposalPopup.java:1655)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.showPossibleCompletions(ContentAssistant.java:1873)
+	at org.eclipse.cdt.internal.ui.editor.CEditor$AdaptedSourceViewer.doOperation(CEditor.java:339)
+	at org.eclipse.ui.texteditor.ContentAssistAction.lambda$0(ContentAssistAction.java:85)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.texteditor.ContentAssistAction.run(ContentAssistAction.java:84)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:121)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at jdk.internal.reflect.GeneratedMethodAccessor75.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:300)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:485)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:308)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:580)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:655)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:439)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:96)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1286)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1065)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1075)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1117)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1594)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4866)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4744)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5040)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.cdt.ui 4 4 2024-01-12 03:06:28.435
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.cdt.core.dom.ast.IASTDeclarator.getName()" because the return value of "org.eclipse.cdt.internal.core.dom.parser.ASTQueries.findInnermostDeclarator(org.eclipse.cdt.core.dom.ast.IASTDeclarator)" is null
+	at org.eclipse.cdt.internal.core.dom.parser.cpp.CPPFunction.getParamName(CPPFunction.java:427)
+	at org.eclipse.cdt.internal.core.dom.parser.cpp.CPPFunction.getParameters(CPPFunction.java:258)
+	at org.eclipse.cdt.internal.core.dom.parser.cpp.CPPFunction.getParameters(CPPFunction.java:1)
+	at org.eclipse.cdt.internal.ui.text.contentassist.DOMCompletionProposalComputer.handleFunction(DOMCompletionProposalComputer.java:602)
+	at org.eclipse.cdt.internal.ui.text.contentassist.DOMCompletionProposalComputer.handleBinding(DOMCompletionProposalComputer.java:369)
+	at org.eclipse.cdt.internal.ui.text.contentassist.DOMCompletionProposalComputer.computeCompletionProposals(DOMCompletionProposalComputer.java:192)
+	at org.eclipse.cdt.internal.ui.text.contentassist.ParsingBasedProposalComputer.computeCompletionProposals(ParsingBasedProposalComputer.java:56)
+	at org.eclipse.cdt.internal.ui.text.contentassist.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:299)
+	at org.eclipse.cdt.internal.ui.text.contentassist.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:266)
+	at org.eclipse.cdt.internal.ui.text.contentassist.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:263)
+	at org.eclipse.cdt.internal.ui.text.contentassist.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:215)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.lambda$0(ContentAssistant.java:2064)
+	at java.base/java.util.Collections$SingletonSet.forEach(Collections.java:4905)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:2063)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:2060)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:577)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.lambda$3(CompletionProposalPopup.java:1660)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.incrementalComplete(CompletionProposalPopup.java:1655)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.showPossibleCompletions(ContentAssistant.java:1873)
+	at org.eclipse.cdt.internal.ui.editor.CEditor$AdaptedSourceViewer.doOperation(CEditor.java:339)
+	at org.eclipse.ui.texteditor.ContentAssistAction.lambda$0(ContentAssistAction.java:85)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.texteditor.ContentAssistAction.run(ContentAssistAction.java:84)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:121)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at jdk.internal.reflect.GeneratedMethodAccessor75.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:300)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:485)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:308)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:580)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:655)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:439)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:96)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1286)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1065)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1075)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1117)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1594)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4866)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4744)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5040)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+!SESSION 2024-01-12 14:36:17.181 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-01-12 14:36:32.193
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-01-12 14:36:36.027
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-01-12 14:36:36.028
+!MESSAGE Log4j2 initialized with config file C:\Users\user\Desktop\szkola\Uni\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-12 14:36:52.385
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-01-12 14:36:53.911
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-01-12 19:59:16.393 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-01-12 20:21:39.295
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-01-12 20:21:39.296
+!MESSAGE Log4j2 initialized with config file C:\Users\user\Desktop\szkola\Uni\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-12 20:21:42.953
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-01-12 20:21:44.694
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-01-13 12:55:38.265 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-01-13 12:55:46.525
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-01-13 12:55:46.526
+!MESSAGE Log4j2 initialized with config file C:\Users\user\Desktop\szkola\Uni\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-13 12:55:50.479
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-01-13 12:55:52.053
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-01-17 16:01:52.494 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-01-17 16:02:00.878
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-01-17 16:02:00.880
+!MESSAGE Log4j2 initialized with config file C:\Users\user\Desktop\szkola\Uni\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-17 16:02:04.165
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-01-17 16:02:05.648
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.ui 4 0 2024-01-17 16:31:49.336
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:369)
+	at org.eclipse.swt.widgets.Control.getShell(Control.java:1545)
+	at org.eclipse.swt.awt.SWT_AWT.lambda$4(SWT_AWT.java:222)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1071)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:814)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:925)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:821)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:925)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:821)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:428)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.disposeWidget(SWTPartRenderer.java:183)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.disposeWidget(ContributedPartRenderer.java:286)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeRemoveGui(PartRenderingEngine.java:938)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:861)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.removeGui(PartRenderingEngine.java:845)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeTopicToBeRendered(PartRenderingEngine.java:185)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:92)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setToBeRendered(UIElementImpl.java:314)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1410)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1340)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.closePart(StackRenderer.java:1337)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer$3.close(StackRenderer.java:1197)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1970)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:337)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 4 2 2024-01-17 16:31:49.336
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.e4.ui.workbench.swt".
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:369)
+	at org.eclipse.swt.widgets.Control.setRedraw(Control.java:3662)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.disposeWidget(ContributedPartRenderer.java:288)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeRemoveGui(PartRenderingEngine.java:938)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:861)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.removeGui(PartRenderingEngine.java:845)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeTopicToBeRendered(PartRenderingEngine.java:185)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:92)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setToBeRendered(UIElementImpl.java:314)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1410)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1340)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.closePart(StackRenderer.java:1337)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer$3.close(StackRenderer.java:1197)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1970)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:337)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2024-01-17 16:31:49.337
+!MESSAGE Exception occurred while unrendering: org.eclipse.e4.ui.compatibility.editor=org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl@2f2fa9be (tags: [Editor, removeOnHide, com.st.stm32cube.common.mx.startCubeMx], contributorURI: null) (widget: null, renderer: null, toBeRendered: false, onTop: false, visible: true, containerData: null, accessibilityPhrase: null) (contributionURI: bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor, object: CompatibilityPart [partId=org.eclipse.e4.ui.compatibility.editor, properties=[], tags=[Editor, removeOnHide, com.st.stm32cube.common.mx.startCubeMx], wrapped=class com.st.stm32cube.common.mx.editor.CubeMxEditor, legacyPart=class com.st.stm32cube.common.mx.editor.CubeMxEditor, beingDisposed=true, alreadyDisposed=false], context: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide com.st.stm32cube.common.mx.startCubeMxContext, variables: [], label: SmSemProject.ioc, iconURI: platform:/plugin/com.st.stm32cube.common.mx/icons/MicroXplorer.png, tooltip: null, dirty: true, closeable: true, description: null)
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:369)
+	at org.eclipse.swt.widgets.Control.setRedraw(Control.java:3662)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.disposeWidget(ContributedPartRenderer.java:288)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeRemoveGui(PartRenderingEngine.java:938)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:861)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.removeGui(PartRenderingEngine.java:845)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeTopicToBeRendered(PartRenderingEngine.java:185)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:92)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setToBeRendered(UIElementImpl.java:314)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1410)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1340)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.closePart(StackRenderer.java:1337)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer$3.close(StackRenderer.java:1197)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1970)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:337)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.cdt.ui 4 4 2024-01-17 18:32:48.292
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.cdt.core.dom.ast.IASTDeclarator.getName()" because the return value of "org.eclipse.cdt.internal.core.dom.parser.ASTQueries.findInnermostDeclarator(org.eclipse.cdt.core.dom.ast.IASTDeclarator)" is null
+	at org.eclipse.cdt.internal.core.dom.parser.cpp.CPPFunction.getParamName(CPPFunction.java:427)
+	at org.eclipse.cdt.internal.core.dom.parser.cpp.CPPFunction.getParameters(CPPFunction.java:258)
+	at org.eclipse.cdt.internal.core.dom.parser.cpp.CPPFunction.getParameters(CPPFunction.java:1)
+	at org.eclipse.cdt.internal.ui.text.contentassist.DOMCompletionProposalComputer.handleFunction(DOMCompletionProposalComputer.java:602)
+	at org.eclipse.cdt.internal.ui.text.contentassist.DOMCompletionProposalComputer.handleBinding(DOMCompletionProposalComputer.java:369)
+	at org.eclipse.cdt.internal.ui.text.contentassist.DOMCompletionProposalComputer.computeCompletionProposals(DOMCompletionProposalComputer.java:192)
+	at org.eclipse.cdt.internal.ui.text.contentassist.ParsingBasedProposalComputer.computeCompletionProposals(ParsingBasedProposalComputer.java:56)
+	at org.eclipse.cdt.internal.ui.text.contentassist.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:299)
+	at org.eclipse.cdt.internal.ui.text.contentassist.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:266)
+	at org.eclipse.cdt.internal.ui.text.contentassist.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:263)
+	at org.eclipse.cdt.internal.ui.text.contentassist.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:215)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.lambda$0(ContentAssistant.java:2064)
+	at java.base/java.util.Collections$SingletonSet.forEach(Collections.java:4905)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:2063)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:2060)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:577)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.lambda$3(CompletionProposalPopup.java:1660)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.incrementalComplete(CompletionProposalPopup.java:1655)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.showPossibleCompletions(ContentAssistant.java:1873)
+	at org.eclipse.cdt.internal.ui.editor.CEditor$AdaptedSourceViewer.doOperation(CEditor.java:339)
+	at org.eclipse.ui.texteditor.ContentAssistAction.lambda$0(ContentAssistAction.java:85)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.texteditor.ContentAssistAction.run(ContentAssistAction.java:84)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:121)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at jdk.internal.reflect.GeneratedMethodAccessor120.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:300)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:485)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:308)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:580)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:655)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:439)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:96)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1286)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1065)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1075)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1117)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1594)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4866)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4744)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5040)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
