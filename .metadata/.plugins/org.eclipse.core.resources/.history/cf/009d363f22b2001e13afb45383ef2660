@@ -1,0 +1,35 @@
+/*
+ * spi_api.cpp
+ *
+ *  Created on: Jan 13, 2024
+ *      Author: Piotr Lesicki
+ */
+
+
+#include <spi_api.hpp>
+#include "tx_api.h"
+
+class SpiDmaRequestHandler
+{
+	public:
+		SpiDmaRequestHandler() = delete;
+		SpiDmaRequestHandler(const SpiDmaRequestHandler&) = delete;
+		SpiDmaRequestHandler& operator=(SpiDmaRequestHandler const&) = delete;
+
+		static void putRequest(SpiDmaRequest request);
+
+	private:
+		uint8_t data_pool[sizeof(SpiDmaRequest) * 8];
+};
+
+SpiDmaRequest::SpiDmaRequest(uint8_t *rx_data, uint8_t *tx_data, size_t size, GpioOut *cs, std::atomic<bool> *pending_request) : rx_data(rx_data), tx_data(tx_data), size(size), cs(cs), pending_request(pending_request) { }
+
+void SpiDmaRequest::send()
+{
+
+}
+
+void HAL_SPI_TxRxCpltCallback(SPI_HandleTypeDef *hspi)
+{
+
+}

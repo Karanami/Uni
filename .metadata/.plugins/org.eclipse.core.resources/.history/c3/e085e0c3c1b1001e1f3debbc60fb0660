@@ -1,0 +1,25 @@
+/*
+ * lsm6dsl.hpp
+ *
+ *  Created on: Jan 13, 2024
+ *      Author: Piotr Lesicki
+ */
+
+#ifndef INC_LSM6DSL_HPP_
+#define INC_LSM6DSL_HPP_
+
+#include "main.h"
+#include "common.hpp"
+
+class Lsm6dsl
+{
+	public:
+		Lsm6dsl(I2C_Typdef *spi, GpioOut *cs);
+
+	private:
+		I2C_Typdef *spi;
+		GpioOut *cs;
+};
+
+
+#endif /* INC_LSM6DSL_HPP_ */

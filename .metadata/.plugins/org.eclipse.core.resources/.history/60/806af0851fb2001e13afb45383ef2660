@@ -1,0 +1,25 @@
+/*
+ * spi_api.hpp
+ *
+ *  Created on: Jan 13, 2024
+ *      Author: Piotr Lesicki
+ */
+
+#ifndef INC_SPI_API_HPP_
+#define INC_SPI_API_HPP_
+
+#include "main.h"
+#include "common.hpp"
+
+struct SpiDmaRequest
+{
+	explicit SpiDmaRequest(uint8_t *rx_data, uint8_t *tx_data, size_t size, GpioOut *cs);
+
+	uint8_t *rx_data;
+	uint8_t *tx_data;
+	size_t size;
+	GpioOut *cs;
+};
+
+
+#endif /* INC_SPI_API_HPP_ */

@@ -1,0 +1,31 @@
+/*
+ * Max11643.hpp
+ *
+ *  Created on: Jan 13, 2024
+ *      Author: Piotr Lesicki
+ */
+
+#ifndef INC_MAX11643_HPP_
+#define INC_MAX11643_HPP_
+
+#include "main.h"
+#include "common.hpp"
+
+enum struct Max11643Channel
+{
+
+};
+
+class Max11643
+{
+	public:
+		Max11643(SPI_HandleTypedef *spi, GpioOut *cs);
+
+		void requestData();
+		uint8_t getChannelAdc()
+	private:
+		uint8_t
+};
+
+
+#endif /* INC_MAX11643_HPP_ */

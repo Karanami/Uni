@@ -1,0 +1,15 @@
+/*
+ * lsm6dsl.hpp
+ *
+ *  Created on: Jan 13, 2024
+ *      Author: Piotr Lesicki
+ */
+
+#ifndef INC_LSM6DSL_HPP_
+#define INC_LSM6DSL_HPP_
+
+
+
+
+
+#endif /* INC_LSM6DSL_HPP_ */
