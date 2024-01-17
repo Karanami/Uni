@@ -1,9 +1,0 @@
-/*
- * lsm6dsl.cpp
- *
- *  Created on: Jan 17, 2024
- *      Author: Piotr Lesicki
- */
-
-
-#include <lsm6dsl.hpp>

@@ -1,9 +1,0 @@
-/*
- * max11643.cpp
- *
- *  Created on: Jan 13, 2024
- *      Author: Piotr Lesicki
- */
-
-
-#include <max11643.hpp>
