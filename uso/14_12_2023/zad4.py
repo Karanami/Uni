@@ -33,7 +33,8 @@ def zad1():
         plt.plot(t, y[:, 1], label='e2, qd=' + str(qd))
         plt.title('zad1')
         plt.legend()
-        plt.show()
+        plt.savefig('zad4_1'+str(qd)+'.png')
+        plt.clf()
 
 def zad2():    
     SS = [[1, 0, 0, 1], [100, 0, 0, 100]]
@@ -90,7 +91,8 @@ def zad2():
             plt.plot(t, yinfinite[:, 1], label='inf, e2')
             plt.title('qd=' + str(qd) +', S=' + name)
             plt.legend()
-            plt.show()
+            plt.savefig('zad4_2_'+name+'.png')
+            plt.clf()
 
 if __name__ == '__main__':
     zad1()

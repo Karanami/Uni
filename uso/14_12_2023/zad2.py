@@ -37,11 +37,11 @@ def zad2():
 
     y = itg.odeint(model, [0, 0], t)
 
-    plt.plot(t, y, label=['x1', 'x2'])
+    plt.plot(t, y, ['', '', '', '.'], label=['x1', 'x2'])
     plt.title('zad2')
     plt.legend()
-    plt.show()
-    
+    #plt.show()
+    plt.savefig('zad2_2.png')
     
 def zad3():
 
@@ -66,7 +66,8 @@ def zad3():
         plt.plot(t, y, label=[f'x1-{name}', f'x2-{name}'])
         plt.title(f'zad3-{name}')
         plt.legend()
-    plt.show()
+    #plt.show()
+    plt.savefig('zad2_3.png')
     
     
 def zad4():
@@ -94,8 +95,8 @@ def zad4():
         plt.plot(t, y[:, 2], label=f'J-{name}')
         plt.title(f'zad4-{name}')
         plt.legend()
-    plt.show()
-    t = np.linspace(0, 5)
+    #plt.show()
+    plt.savefig('zad2_4.png')
     return
 
 if __name__ == '__main__':

@@ -12,7 +12,7 @@ def zad1_2():
     def riccati(p, t):
         P = np.array([p[0:2], p[2:4]])
         dP = -(P @ A - P @ B @ np.linalg.matrix_power(R, -1) @ B.transpose() @ P + A.transpose() @ P + Q)
-        flatP = dP[0].tolist() + dP[1].tolist()
+        flatP = dP.flatten()
         return flatP
     
     t = np.linspace(0, 5)
@@ -20,13 +20,15 @@ def zad1_2():
 
     y = itg.odeint(riccati, [1, 0, 0, 1], t)
 
-    plt.plot(t, y)
+    plt.plot(t, y, label=['p1', 'p2', 'p3', 'p4'])
     plt.title('zad1_2')
-    plt.show()
+    plt.legend()
+    #plt.show()
+    plt.savefig('zad3_1-2.png')
     
     
 def zad3():
-    S = np.array([1, 0, 0, 1])  # nwm u mnie niczego ta macierz nie zmienia? mam wrażenie że to zasługa interpolacji
+    S = np.array([[1, 0], [0, 1]])  # nwm u mnie niczego ta macierz nie zmienia? mam wrażenie że to zasługa interpolacji
                                 # bo jak patrzyłem w wywoływania odeinit dla ricati to już wdrugiej iteracj p
                                 # ma wartości około 1 
     Q = np.identity(2) # innercja
@@ -35,13 +37,13 @@ def zad3():
     def riccati(p, t):
         P = np.array([p[0:2], p[2:4]])
         dP = -(P @ A - P @ B @ np.linalg.matrix_power(R, -1) @ B.transpose() @ P + A.transpose() @ P + Q)
-        flatP = dP[0].tolist() + dP[1].tolist()
+        flatP = dP.flatten()
         return flatP
     
     t = np.linspace(0, 5)
     ft = np.flip(t)
 
-    y = itg.odeint(riccati, S, ft)
+    y = itg.odeint(riccati, S.flatten(), ft)
     
     P = itp.interp1d(ft, y, axis=0, fill_value='extrapolate')
     kek = P(1)
@@ -54,20 +56,24 @@ def zad3():
     
     def u(x, t):
         k = K(t)
-        return -k @ x
+        u = -k @ x
+        return u
 
     def model(x, t):
         xt = np.transpose([x])
         dx = A @ xt + B * u(xt, t)
-        return np.transpose(dx).flatten()        
+        return dx.transpose().flatten()        
 
     y = itg.odeint(model, [0, 1], t)
 
-    plt.plot(t, y)
+    plt.clf()
+    plt.plot(t, y, label=['x1', 'x2'])
     plt.title('zad3')
-    plt.show()
+    plt.legend()
+    plt.savefig('zad3_3.png')
     
 def zad4():
+    plt.clf()
     SS = [[1, 0, 0, 1], [100, 0, 0, 100]]
     Sname = ['I', '100I']
     Q = np.identity(2)
@@ -124,7 +130,8 @@ def zad4():
             plt.plot(t, yifinite, '.', label=['x1 - infinite', 'x2 - infinite'])
             plt.title('zad4 - ' + name + ' tend: ' + str(te))
             plt.legend()
-        plt.show()
+        plt.savefig('zad3_4_' + name + '.png')
+        plt.clf()
 
 if __name__ == '__main__':
     zad1_2()
